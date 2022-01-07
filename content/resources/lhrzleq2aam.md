@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/6af6ea86801fe55e4868fec714e50fda_LHRZLeQ2aaM.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: 6af6ea86-801f-e55e-4868-fec714e50fda
+---

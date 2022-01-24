@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Clip 2: Final Exam, Problem 13'
+uid: 403189a5-a999-9944-8bfc-d8cd930d6257
+video_files:
+  archive_url: http://www.archive.org/details/MIT3_091SCF10
+  video_captions_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/500213a7c83657dcb654344e67b79c68_j9DVXVwVyc4.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/j9DVXVwVyc4/default.jpg
+  video_transcript_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/d3af7f27fa856796a7ae9093f43fba6b_j9DVXVwVyc4.pdf
+video_metadata:
+  youtube_id: j9DVXVwVyc4
+---

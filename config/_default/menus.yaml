@@ -1,0 +1,279 @@
+leftnav:
+- identifier: 116bf279-d466-43e7-0e0e-4cd163f567f1
+  name: Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: 9abd92d7-66e1-b816-f50d-00770b2420e1
+  name: Reference Materials and Suggested Textbooks
+  parent: 116bf279-d466-43e7-0e0e-4cd163f567f1
+  url: /pages/syllabus/suggested-textbooks
+  weight: 20
+- identifier: af4b0715-adb4-b3d3-3e69-af564b71c30e
+  name: Meet the TAs
+  parent: 116bf279-d466-43e7-0e0e-4cd163f567f1
+  url: /pages/syllabus/meet-the-tas
+  weight: 30
+- identifier: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  name: Structure of the Atom
+  url: /pages/structure-of-the-atom/
+  weight: 40
+- identifier: 8a1709eb-16be-69bb-41cc-325703c25a95
+  name: 1. Introduction to Solid State Chemistry
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry
+  weight: 50
+- identifier: a13b8975-9fdc-1778-eea3-68cb5be8fef0
+  name: 2. The Periodic Table
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/2-periodic-table
+  weight: 60
+- identifier: 313524b4-840e-e388-74ee-c0ea90001bd5
+  name: '3. Atomic Models: Rutherford & Bohr'
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/3-atomic-models
+  weight: 70
+- identifier: f24a8114-0d3e-bfe3-77bb-b99589aad189
+  name: '4. Matter/Energy Interactions: Atomic Spectra'
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/4-matter-energy-interactions
+  weight: 80
+- identifier: e7d31b34-62de-b7aa-1e87-6b9a5a99c71f
+  name: 5. Electron Shell Model & Quantum Numbers
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers
+  weight: 90
+- identifier: acd5af93-6551-c69a-d7d6-8b73d9226daa
+  name: 6. Particle-Wave Duality
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/6-particle-wave-duality
+  weight: 100
+- identifier: d0470d3e-350a-e01c-66ab-ad1825f65352
+  name: 7. The Aufbau Principle; Photoelectron Spectroscopy
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/7--the-aufbau-principle-photoelectron-spectroscopy
+  weight: 110
+- identifier: e0f0b093-6ba1-323d-d748-bdec78bb7499
+  name: Self-Assessment
+  parent: 5a68a2e8-4d79-7915-46d1-ce9bdf015e7a
+  url: /pages/structure-of-the-atom/self-assessment-structure-of-the-atom
+  weight: 120
+- identifier: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  name: Bonding and Molecules
+  url: /pages/bonding-and-molecules/
+  weight: 130
+- identifier: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
+  name: 8. Ionic Crystals; Born-Haber Cycle
+  parent: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  url: /pages/bonding-and-molecules/8--ionic-crystals-born-haber-cycle
+  weight: 140
+- identifier: 80b4e5be-5325-9c74-0eb6-068392cf19cb
+  name: 9. Drawing Lewis Structures
+  parent: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  url: /pages/bonding-and-molecules/9--drawing-lewis-structures
+  weight: 150
+- identifier: f3720df7-44c6-c811-bba3-3f83d3053ffd
+  name: 10. Hybridized & Molecular Orbitals; Paramagnetism
+  parent: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  url: /pages/bonding-and-molecules/10--hybridized-molecular-orbitals-paramagnetism
+  weight: 160
+- identifier: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
+  name: 11. The Shapes of Molecules
+  parent: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  url: /pages/bonding-and-molecules/11--the-shapes-of-molecules
+  weight: 170
+- identifier: 009937ee-55a4-84c8-160b-5248e1f70793
+  name: 12. Intermolecular Forces
+  parent: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  url: /pages/bonding-and-molecules/12--intermolecular-forces
+  weight: 180
+- identifier: e546abb4-cde9-4dcd-5383-555e591eed18
+  name: Self-Assessment
+  parent: 6ea956c8-cef5-f99e-6904-09f06d8d5317
+  url: /pages/bonding-and-molecules/self-assessment
+  weight: 190
+- identifier: 391990ee-f653-5d34-974e-42391c0cb5b5
+  name: Electronic Materials
+  url: /pages/electronic-materials/
+  weight: 200
+- identifier: c567f1c9-3666-523f-ed70-cea0765d0080
+  name: 13. Band Theory of Solids
+  parent: 391990ee-f653-5d34-974e-42391c0cb5b5
+  url: /pages/electronic-materials/13-band-theory-of-solids
+  weight: 210
+- identifier: f218eec6-2b6b-13b4-b233-61a7fc3abb81
+  name: 14. Semiconductors
+  parent: 391990ee-f653-5d34-974e-42391c0cb5b5
+  url: /pages/electronic-materials/14-semiconductors
+  weight: 220
+- identifier: 3452e351-524d-2e8f-7020-05d4103e2aaf
+  name: Self-Assessment
+  parent: 391990ee-f653-5d34-974e-42391c0cb5b5
+  url: /pages/electronic-materials/self-assessment-electronic-materials
+  weight: 230
+- identifier: b66bb6b5-1948-c461-fd27-7f44614156ed
+  name: Crystalline Materials
+  url: /pages/crystalline-materials/
+  weight: 240
+- identifier: 94d7c45c-dd53-4c54-0679-000be37ea165
+  name: 15. Introduction to Crystallography
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/15-introduction-to-crystallography
+  weight: 250
+- identifier: e22836d9-83d9-ad9c-8310-e4357bb64a92
+  name: 16. Crystallographic Notation & X-Rays
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/16-crystallographic-notation-x-rays
+  weight: 260
+- identifier: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
+  name: 17. X-Ray Emission & Absorption
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/17-x-ray-emission-absorption
+  weight: 270
+- identifier: 2f4aa15c-0125-9d84-17ab-ecf218034e84
+  name: 18. X-Ray Diffraction Techniques
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/18-x-ray-diffraction-techniques
+  weight: 280
+- identifier: 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4
+  name: 19. Point & Line Defects
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/19-point-and-line-defects
+  weight: 290
+- identifier: 5c00821f-505a-eeee-270d-29caeda060dc
+  name: 20. Line, Interface & Bulk Defects
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/20-line-interface-and-bulk-defects
+  weight: 300
+- identifier: b919ff60-1e15-2f9b-3ab0-e616c5196381
+  name: 'Self-Assessment: Crystalline Materials'
+  parent: b66bb6b5-1948-c461-fd27-7f44614156ed
+  url: /pages/crystalline-materials/self-assessment-crystalline-materials
+  weight: 310
+- identifier: 79828d9f-9980-e3bc-b791-bd1403164706
+  name: Amorphous Materials
+  url: /pages/amorphous-materials/
+  weight: 320
+- identifier: 1d01a4a6-fa92-2854-cead-1f61b1189649
+  name: 21. Introduction to Glasses
+  parent: 79828d9f-9980-e3bc-b791-bd1403164706
+  url: /pages/amorphous-materials/21-introduction-to-glasses
+  weight: 330
+- identifier: 593608f5-1309-0383-9a58-fb9a2fb6843a
+  name: 22. Engineering Glass Properties; Introduction to Kinetics
+  parent: 79828d9f-9980-e3bc-b791-bd1403164706
+  url: /pages/amorphous-materials/22--engineering-glass-properties-introduction-to-kinetics
+  weight: 340
+- identifier: cbb4c14e-67cf-57ab-0634-902e7e8953ff
+  name: Self-Assessment
+  parent: 79828d9f-9980-e3bc-b791-bd1403164706
+  url: /pages/amorphous-materials/self-assessment-amorphous-materials
+  weight: 350
+- identifier: 885d39b1-395a-748c-e5bf-46da89d7dc8d
+  name: Reactions and Kinetics
+  url: /pages/reactions-and-kinetics/
+  weight: 360
+- identifier: 568956d9-4b5b-b4e9-70b5-553efd337767
+  name: 23. Reaction Rates
+  parent: 885d39b1-395a-748c-e5bf-46da89d7dc8d
+  url: /pages/reactions-and-kinetics/23-reaction-rates
+  weight: 370
+- identifier: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
+  name: 24. Diffusion
+  parent: 885d39b1-395a-748c-e5bf-46da89d7dc8d
+  url: /pages/reactions-and-kinetics/24-diffusion
+  weight: 380
+- identifier: 786b7514-86a8-3635-cf6a-b88c95dc0332
+  name: Self-Assessment
+  parent: 885d39b1-395a-748c-e5bf-46da89d7dc8d
+  url: /pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics
+  weight: 390
+- identifier: 6ec96be4-5df9-d10d-17f2-85df51807e05
+  name: Aqueous Solutions
+  url: /pages/aqueous-solutions/
+  weight: 400
+- identifier: 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3
+  name: 25. Introduction to Aqueous Solutions
+  parent: 6ec96be4-5df9-d10d-17f2-85df51807e05
+  url: /pages/aqueous-solutions/25-introduction-to-aqueous-solutions
+  weight: 410
+- identifier: 98ba1bf2-d4f9-d827-e295-168909119297
+  name: 26. Acids & Bases
+  parent: 6ec96be4-5df9-d10d-17f2-85df51807e05
+  url: /pages/aqueous-solutions/26-acids-and-bases
+  weight: 420
+- identifier: 72916be9-a577-7e44-0a46-72d4318cea26
+  name: Self-Assessment
+  parent: 6ec96be4-5df9-d10d-17f2-85df51807e05
+  url: /pages/aqueous-solutions/self-assessment-aqueous-solutions
+  weight: 430
+- identifier: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  name: Organic Materials
+  url: /pages/organic-materials/
+  weight: 440
+- identifier: d1c5400e-ad6e-5796-fde9-b0ebffa63afd
+  name: 27. Introduction to Organic Chemistry
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/27-introduction-to-organic-chemistry
+  weight: 450
+- identifier: f8c2db6d-2332-71ec-1747-b2c8369b532e
+  name: '28. Polymers: Structure & Composition'
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/28-polymers-structure-composition
+  weight: 460
+- identifier: ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941
+  name: '29. Polymers: Synthesis, Properties & Applications'
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/29-polymers-synthesis-properties-applications
+  weight: 470
+- identifier: 1391526c-977f-6e58-b0c0-b163bcae3d50
+  name: '30. Biochemistry: Amino Acids'
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/30-amino-acids
+  weight: 480
+- identifier: 4e61d15e-9ac5-67d9-af48-23d7beaa16b7
+  name: '31. Biochemistry: Protein Structure'
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/31-protein-structure
+  weight: 490
+- identifier: 3db3383b-b411-d2fc-45f2-4495b3640825
+  name: '32. Biochemistry: Lipids, Nucleic Acids & DNA'
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/32-lipids-nucleic-acids-dna
+  weight: 500
+- identifier: d4c48520-c374-4193-77d0-62d4fd87b4d0
+  name: Self-Assessment
+  parent: 0ab5962f-08b0-e5dd-2488-7c3659767245
+  url: /pages/organic-materials/self-assessment-organic-materials
+  weight: 510
+- identifier: f6e01e0c-3963-e495-1396-598462ae7d02
+  name: Solid Solutions
+  url: /pages/solid-solutions/
+  weight: 520
+- identifier: ca8d17e3-3c26-884a-7904-68ea3eee4bed
+  name: 33. Unary Phase Diagrams
+  parent: f6e01e0c-3963-e495-1396-598462ae7d02
+  url: /pages/solid-solutions/33-unary-phase-diagrams
+  weight: 530
+- identifier: 31cd4459-a0c6-f229-2b86-eee893f5dd0b
+  name: '34. Binary Phase Diagrams: Complete Solubility'
+  parent: f6e01e0c-3963-e495-1396-598462ae7d02
+  url: /pages/solid-solutions/34-binary-phase-diagrams-complete-solubility
+  weight: 540
+- identifier: 7a815988-3da3-035d-e473-14306ab4f684
+  name: '35. Binary Phase Diagrams: Limited Solubility'
+  parent: f6e01e0c-3963-e495-1396-598462ae7d02
+  url: /pages/solid-solutions/35-binary-phase-diagrams-limited-solubility
+  weight: 550
+- identifier: 72c01ef0-b872-bcb0-6ee3-bdfffcb4cd4a
+  name: Self-Assessment
+  parent: f6e01e0c-3963-e495-1396-598462ae7d02
+  url: /pages/solid-solutions/self-assessment-solid-solutions
+  weight: 560
+- identifier: 1510a47e-e45c-9c55-4ebc-44d837db76c0
+  name: Final Exam
+  url: /pages/final-exam
+  weight: 570
+- identifier: 4ea8b3b8-9024-9860-0ee4-f20d41fcc23c
+  name: Resource Index
+  url: /pages/resource-index
+  weight: 580

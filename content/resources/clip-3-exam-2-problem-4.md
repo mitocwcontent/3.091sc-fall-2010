@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Clip 3: Exam 2, Problem 4'
+uid: 2e1dc67f-1091-a87e-734d-9111348a0cac
+video_files:
+  archive_url: http://www.archive.org/details/MIT3_091SCF10
+  video_captions_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0d314c27e26c539eb9ce25225e3378c8_NpBq_JnLKv8.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/NpBq_JnLKv8/default.jpg
+  video_transcript_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/f7cbf8ce07d1fa0dbfe271f0775b1678_NpBq_JnLKv8.pdf
+video_metadata:
+  youtube_id: NpBq_JnLKv8
+---

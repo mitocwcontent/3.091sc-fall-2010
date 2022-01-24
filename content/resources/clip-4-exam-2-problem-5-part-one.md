@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Clip 4: Exam 2, Problem 5 - Part One'
+uid: 6f253228-3244-3b24-5525-900473b11368
+video_files:
+  archive_url: http://www.archive.org/details/MIT3_091SCF10
+  video_captions_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/4925b1bbed745043903272d69d36c0ad_qKh4mOlEZpE.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/qKh4mOlEZpE/default.jpg
+  video_transcript_file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/6365f31147a3addca2a35cb174d2f3a6_qKh4mOlEZpE.pdf
+video_metadata:
+  youtube_id: qKh4mOlEZpE
+---
